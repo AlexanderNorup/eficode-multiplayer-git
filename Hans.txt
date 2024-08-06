@@ -2,3 +2,4 @@ name: Hans Rosenfeldt Pedersen
 color: Red or purple
 favorite food: Burger
 current favorite game: Baldurs Gate 3
+favortie sport: Handball
