@@ -1,3 +1,4 @@
 Name: Alexander
 Favorite Color: Pink
 Favorite IDE theme: Light mode (fight me)
+Favorite IDE: It depends on what I'm coding (duh...)
