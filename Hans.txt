@@ -1,2 +1,3 @@
 name: Hans Rosenfeldt Pedersen
 color: Red or purple
+favorite food: Burger
